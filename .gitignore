@@ -1,0 +1,5 @@
+# 忽略 Jupyter Notebook 检查点文件夹
+.ipynb_checkpoints/
+
+# 忽略 Anaconda 项目文件夹
+anaconda_projects/
